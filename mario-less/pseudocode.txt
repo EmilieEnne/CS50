@@ -1,0 +1,3 @@
+1. prompt for input between 1 and 8
+2. write code for left-aligned pyramid with # increasing one for each row, for however many rows prompted.
+3. make pyramid right-aligned
